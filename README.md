@@ -12,8 +12,4 @@ git clone https://github.com/wbthomason/packer.nvim "$env:LOCALAPPDATA\nvim-data
 
 **instalation:**
 
-`
-
-git clone https://github.com/DzejDzejCraft/Nvim-config/tree/main "$env:LOCALAPPDATA\nvim\"
-
-`
+`git clone https://github.com/DzejDzejCraft/Nvim-config/tree/main "$env:LOCALAPPDATA\nvim\"`
