@@ -1,4 +1,4 @@
-# My Nvim Config- MNC
+# My Poor Nvim Config- MPNC
 
 **Dependecies**
 
