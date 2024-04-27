@@ -45,8 +45,7 @@ require("lazy").setup({
     "rcarriga/nvim-notify",
     }
 },
-{
-  "nvim-tree/nvim-tree.lua",
+{ "nvim-tree/nvim-tree.lua",
   version = "*",
   lazy = false,
   dependencies = {
@@ -72,6 +71,9 @@ require("lazy").setup({
     "williamboman/mason.nvim",
     "williamboman/mason-lspconfig.nvim",
     "neovim/nvim-lspconfig",
-}
+},
+{ "rafamadriz/friendly-snippets" },
+{"ggandor/leap.nvim"}
+
 
   })
