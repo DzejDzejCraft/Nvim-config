@@ -22,6 +22,7 @@ local cmp = require('cmp')
 cmp.setup({
   sources = {
     {name = 'nvim_lsp'},
+    { name = "neorg" },
   },
   mapping = {
     ['<CR>'] = cmp.mapping.confirm({select = false}),

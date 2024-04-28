@@ -73,7 +73,9 @@ require("lazy").setup({
     "neovim/nvim-lspconfig",
 },
 { "rafamadriz/friendly-snippets" },
-{"ggandor/leap.nvim"}
+{"ggandor/leap.nvim"},
+
+
 
 
   })
